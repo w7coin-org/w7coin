@@ -1,0 +1,9 @@
+Building w7coin
+
+See doc/readme-qt.rst for instructions on building w7coin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of w7coin.
+
+See doc/build-*.txt for instructions on building w7coind,
+the intended-for-services, no-graphical-interface, reference
+implementation of w7coin.
